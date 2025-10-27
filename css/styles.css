@@ -111,7 +111,7 @@ button {
 .team-item {
   background-color: #fff;
 }
-.title2 {
+.article-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -129,7 +129,7 @@ button {
   color: #2e2f42;
 }
 
-.title3 {
+.article-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
